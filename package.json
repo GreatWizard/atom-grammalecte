@@ -1,0 +1,32 @@
+{
+  "name": "grammalecte",
+  "description": "Atom plugin for Grammalecte. Grammalecte is an open source grammar and typographic corrector dedicated to the French language.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/GreatWizard/atom-grammalecte",
+  "author": {
+    "name": "Guillaume Gérard",
+    "url": "https://guillaume.gerard.pm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GreatWizard/atom-grammalecte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GreatWizard/atom-grammalecte/issues"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "grammalecte",
+    "grammar",
+    "typographic",
+    "corrector",
+    "french",
+    "language",
+    "atom",
+    "plugin"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0"
+  }
+}
